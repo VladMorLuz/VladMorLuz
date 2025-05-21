@@ -2,7 +2,7 @@
 
 ### Meu nome é Vlad Mor. Seja bem-vindo(a) ao meu Github!. <img src="https://i.postimg.cc/4ySKb4xb/20250516-2125-C-rebro-Digitalizado-remix-01jvdt1e25efzssqn7r7benv38.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 👨‍🎓 Graduando em Ciência da Computação na UNIFACS
+<!-- - 👨‍🎓 Graduando em Ciência da Computação na UNIFACS -->
 - 💻 Desenvolvedor de Software
 <!-- - ❤️ Estou aprofundando nas linguagens de programação com foco em DeepLearnig e Data Science.-->
 
